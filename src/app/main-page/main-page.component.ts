@@ -12,4 +12,8 @@ export class MainPageComponent implements OnInit {
   ngOnInit() {
   }
 
+  predict(): void {
+    //predict function
+  }
+
 }

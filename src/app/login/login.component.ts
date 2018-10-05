@@ -11,5 +11,10 @@ export class LoginComponent implements OnInit {
 
   ngOnInit() {
   }
-
+  login(): void {
+    //login function
+  }
+  createAccount(): void {
+    //CA function
+  }
 }

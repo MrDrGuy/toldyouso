@@ -11,5 +11,8 @@ export class CreateAccountComponent implements OnInit {
 
   ngOnInit() {
   }
+  createAccount(): void {
+    //CA function
+  }
 
 }

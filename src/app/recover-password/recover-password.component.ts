@@ -11,5 +11,8 @@ export class RecoverPasswordComponent implements OnInit {
 
   ngOnInit() {
   }
+  resetPassword(): void {
+    //reset password function
+  }
 
 }
